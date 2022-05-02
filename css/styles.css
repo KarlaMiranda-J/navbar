@@ -50,7 +50,7 @@ h4 {
 
 p {
     margin-bottom: 1.25rem;
-    color: hsl(210, 22%, 49%);
+    color: hsl(343, 22%, 49%);
 }
 
 @media screen and (min-width: 800px) {
@@ -117,7 +117,7 @@ nav {
 
 .nav-toggle {
     font-size: 1.5rem;
-    color: hsl(205, 78%, 60%);
+    color: hsl(337, 77%, 80%);
     background: transparent;
     border-color: transparent;
     transition: all 0.3s linear;
@@ -144,7 +144,7 @@ nav {
 }
 
 .links a:hover {
-    background: hsl(205, 86%, 81%);
+    background: hsl(324, 83%, 93%);
     color: hsl(315, 65%, 84%);
     padding-left: 1.5rem;
 }
